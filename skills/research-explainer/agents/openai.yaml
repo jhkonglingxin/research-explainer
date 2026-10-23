@@ -1,0 +1,6 @@
+interface:
+  display_name: "Research Explainer · 科研讲明白"
+  short_description: "Explain research clearly without weakening the evidence"
+  default_prompt: "Use $research-explainer to explain this research for an interested non-specialist, preserving the evidence, key numbers, and uncertainty."
+policy:
+  allow_implicit_invocation: true

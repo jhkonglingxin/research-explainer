@@ -1,0 +1,42 @@
+[
+  {
+    "id": "observational",
+    "request": "用不超过180字中文给非医学背景的读者解释，能否说概率降低30%？",
+    "source": "SYNTHETIC ABSTRACT ONLY. Cross-sectional study of 412 adults. Exposure X was associated with odds of condition Y: adjusted OR 0.70, 95% CI 0.46–1.08, P=0.11. Adjusted for age and sex. Baseline risk, temporal sequence and full methods are not supplied. No intervention was performed."
+  },
+  {
+    "id": "engineering",
+    "request": "给刚入组的工程研究生解释这项材料结果，150至250字中文。",
+    "source": "SYNTHETIC LAB RESULT. Three independently manufactured batches per method; four test coupons per batch. Method B had 15% greater mean tensile strength than A under room-temperature dry testing. Nominal P=0.04; Benjamini-Hochberg Q=0.21 across 20 outcomes, prespecified criterion Q<0.05. The analysis model and treatment of batch clustering are not supplied. Field aging, manufacturing cost, and safety were not evaluated."
+  },
+  {
+    "id": "qualitative",
+    "request": "为社区读者用英文写一个简短解释，最多150词。",
+    "source": "SYNTHETIC QUALITATIVE EXCERPT. Eighteen purposively sampled caregivers in one city were interviewed. Seven mentioned the digital scheduling system saved time; four described it as hard to use, including two of those seven. Researchers developed a theme of convenience alongside unequal digital access. Recruitment details beyond purposive sampling, saturation claims, coder agreement, and demographic distributions are not supplied. No verbatim quotations are provided."
+  },
+  {
+    "id": "mixed_environment",
+    "request": "给普通读者解释这张结果表，保留重要数值，最多200字中文。",
+    "source": "SYNTHETIC OBSERVATIONAL TABLE. Air measure X and symptom score association, adjusted for temperature: Site A N=80, beta -0.30, 95% CI [-0.50,-0.10]; Site B N=90, beta +0.05, 95% CI [-0.15,+0.25]. A higher score means worse symptoms. No pooled model or formal between-site interaction test is provided. Table rows represent two sites in one monitoring program, not two randomized trials."
+  },
+  {
+    "id": "theory",
+    "request": "Explain this claim to a first-year university student in English, at most160 words. Include the meaning of the equation and whether this proves a real sensor will work.",
+    "source": "SYNTHETIC THEOREM EXCERPT. For a continuous real-valued function f on the closed interval [a,b], with a<b and f(a)f(b)<0, at least one c in (a,b) satisfies f(c)=0. The source presents a mathematical theorem. It reports no physical experiment and gives no guarantee of uniqueness or a numerical algorithm's rate."
+  },
+  {
+    "id": "ai_benchmark",
+    "request": "用中文向跨专业同事解释这项结果，最多180字。说明提升是多少、能否预测实际部署效果。",
+    "source": "SYNTHETIC BENCHMARK. Model A accuracy 89%; model B accuracy 92%, both on the same held-out benchmark of 1,000 items. Class balance, confidence intervals, training-data overlap checks, calibration, and external deployment tests are not provided. This is one benchmark; no causal or mechanism claim is tested."
+  },
+  {
+    "id": "simulation",
+    "request": "Explain to a non-specialist project manager in English, at most140 words, including what the visualization could and could not establish.",
+    "source": "SYNTHETIC SIMULATION NOTE. A finite-element model predicts peak displacement of 2.4 mm under a static 100 N load. Assumptions: linear-elastic homogeneous material, fixed base, and ideal geometry. The plotted color scale is predicted displacement, not measured stress or observed damage. No physical validation, mesh-convergence study, fatigue analysis, or safety factor is supplied."
+  },
+  {
+    "id": "historical_missing",
+    "request": "请给中学生解释这个论证，并告诉我附图误差线是否表示95%置信区间；最多200字。",
+    "source": "SYNTHETIC HISTORY EXCERPT. An author argues that a policy improved market access using three surviving merchant diaries from one port. A fourth diary describes higher transport costs. The selection and survival of documents are acknowledged as limitations. No population-level estimate is given. A figure is mentioned, but no image, legend, axes or numerical data are supplied with this excerpt."
+  }
+]
